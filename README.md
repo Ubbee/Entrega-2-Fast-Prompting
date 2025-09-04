@@ -1,8 +1,7 @@
 # Generador de Contenidos Visuales para Emprendedores  
 
 **Autor:** Santiago Curotto  
-**Curso:** Prompt Engineering  
-
+**Curso:** Inteligencia Artificial: Generación de Prompts
 ---
 
 ## Introducción  
