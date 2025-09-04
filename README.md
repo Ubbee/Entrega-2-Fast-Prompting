@@ -2,7 +2,6 @@
 
 **Autor:** Santiago Curotto  
 **Curso:** Prompt Engineering  
-**Comisión:** [completar]  
 
 ---
 
